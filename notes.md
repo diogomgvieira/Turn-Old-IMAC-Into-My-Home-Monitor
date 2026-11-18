@@ -17,6 +17,7 @@ Parte Estética do repósitório: trabalhar visualmente algumas secções do rep
 ---
 
 SUGESTÃO DA ESTRUTURA:
+tentar criar esquemas ou outros ficheiros de apoio com LLMs, se não tiverem muito rigor então abandonar essas secções; 
 
 imac-2011-monitor-conversion/
 ├── README.md               # Visão geral, specs originais, BOM e guia passo a passo
